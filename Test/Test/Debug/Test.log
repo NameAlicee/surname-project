@@ -1,0 +1,4 @@
+﻿  Test.cpp
+C:\Users\gabon\OneDrive\Desktop\Universum\Test\Test\Test.cpp(157): warning C4101: string2: неиспользованная локальная переменная
+C:\Users\gabon\OneDrive\Desktop\Universum\Test\Test\Test.cpp(49): warning C4715: funct_compare_2_strokes: значение возвращается не при всех путях выполнения
+  Test.vcxproj -> C:\Users\gabon\OneDrive\Desktop\Universum\Test\Debug\Test.exe
